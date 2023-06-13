@@ -1,4 +1,4 @@
-const changingText = document.querySelector('.changing-text');
+const changing-text = document.querySelector('.changing-text');
 
 
 const texts = [
